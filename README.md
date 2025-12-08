@@ -1,9 +1,14 @@
-Credit-Card-Analytics-Dashboard
 
-This project presents a complete Credit Card Analytics Dashboard built in Power BI, divided into two interactive reports:
+# **Credit Card Analytics Dashboard**
 
-Credit Card Customer Report – Highlights key customer demographics such as age group, gender, income level, and customer segment. This helps financial institutions understand their customer base and identify retention opportunities.
+* Developed a complete **Credit Card Analytics Dashboard** in Power BI to analyze customer demographics and transaction patterns.
+* Created an interactive **Customer Report** providing insights into age group, gender distribution, income levels, and customer segments to support retention and targeting strategies.
+* Designed a detailed **Transaction Report** covering spending categories, regional activity, payment method preferences, and high-value transactions.
+* Incorporated essential KPIs such as **total transactions, average spend, customer count, and revenue by segment** for quick performance evaluation.
+* Implemented slicers and drill-down features to enable analysis across **time period, region, customer group, and spending category**.
+* Added dynamic **tooltips** to enhance user understanding of trends and behavior patterns.
+* Showcased how Power BI can convert raw customer and transaction data into **actionable insights** for improved credit card usage growth, customer engagement, and risk management.
 
-Credit Card Transaction Report – Provides insights into transaction patterns, including spending categories, regional activity, payment methods, and high-value transactions.
+---
 
-Both reports feature essential KPIs like total transactions, average spend, customer count, and revenue by segment. Users can explore the data using slicers and filters for drill-down analysis across time, region, and category. Overall, this project demonstrates how Power BI can turn customer and transaction data into clear, actionable insights for better credit card usage growth, risk management, and customer engagement.
+If you want, I can format this for your **resume, portfolio, LinkedIn**, or a **project report PDF**.
