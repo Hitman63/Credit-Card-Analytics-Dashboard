@@ -8,7 +8,3 @@
 * Implemented slicers and drill-down features to enable analysis across **time period, region, customer group, and spending category**.
 * Added dynamic **tooltips** to enhance user understanding of trends and behavior patterns.
 * Showcased how Power BI can convert raw customer and transaction data into **actionable insights** for improved credit card usage growth, customer engagement, and risk management.
-
----
-
-If you want, I can format this for your **resume, portfolio, LinkedIn**, or a **project report PDF**.
